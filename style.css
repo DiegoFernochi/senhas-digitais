@@ -2,9 +2,9 @@
 /*variáveis*/
 :root {
 --branco: white;
---cor-de-fundo: #b904c9;
---fundo-senha: #b904c9;
---fundo-texto: #b904c9;
+--cor-de-fundo: #56035e;
+--fundo-senha: #56035e;
+--fundo-texto: #56035e;
 --borda: #6f00ff;
 --roboto: 'Roboto', sans-serif;
 --roboto-mono: 'Roboto Mono', monospace;
