@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
+/*variáveis*/
 :root {
 --branco: white;
 --cor-de-fundo: #00162E;
@@ -9,8 +10,9 @@
 --roboto-mono: 'Roboto Mono', monospace;
 }
 * {
-font-weight: 400;
+font-weight: 400; /*espessura ou negrito*/
 }
+/*espessura, estilo e cor*/
 body {
 color: var(--branco);
 background-color: var(--cor-de-fundo);
