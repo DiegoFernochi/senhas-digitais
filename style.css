@@ -2,10 +2,10 @@
 /*variáveis*/
 :root {
 --branco: white;
---cor-de-fundo: #0481c9;
---fundo-senha: #0481c9;
---fundo-texto: #0481c9;
---borda: #00ffea;
+--cor-de-fundo: #b904c9;
+--fundo-senha: #b904c9;
+--fundo-texto: #b904c9;
+--borda: #6f00ff;
 --roboto: 'Roboto', sans-serif;
 --roboto-mono: 'Roboto Mono', monospace;
 }
